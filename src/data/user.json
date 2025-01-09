@@ -1,18 +1,18 @@
 {
     "name": "tobias steltner",
-    "profession": "nerd",
+    "profession": "i like linux and other nerdy stuff",
     "links": [
         {
-            "url": "https://tobias.steltner.cloud",
+            "url": "https://2tap2.be",
             "icon": "link",
             "title": "personal blog",
-            "description": "some nerd stuff"
+            "description": "personal blog"
         },
         {
             "url": "mailto:tobias@steltner.cc",
             "icon": "mail-fill",
             "title": "mail",
-            "description": "reach me out"
+            "description": "reach me out via mail"
         },
         {
             "url": "https://hc-punx.blogspot.com/",
@@ -21,10 +21,22 @@
             "description": "legacy blog project"
         },
         {
-            "url": "https://steltner.cloud",
-            "icon": "link",
-            "title": "steltner.cloud",
-            "description": "developer playground"
+            "url": "https://matrix.to/#/@tobias:xanten.cc",
+            "icon": "chat-1-line",
+            "title": "matrix",
+            "description": "Chat encrypted with Matrix"
+        },
+        {
+            "url": "https://todon.nl/@2b",
+            "icon": "mastodon-fill",
+            "title": "mastodon",
+            "description": "mastodon over x"
+        },
+        {
+            "url": "https://github.com/2TAP2B",
+            "icon": "github-line",
+            "title": "github",
+            "description": "github"
         }
     ]
 }
